@@ -1,6 +1,6 @@
 # dj-startapp
 Django startapp --template
-A modified version of django's template for "./manage.py startapp" command. 
+A modified version of django's template for the *./manage.py startapp* command. 
 
 All this because I forget from where to make imports XD
 
